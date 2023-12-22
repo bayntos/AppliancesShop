@@ -101,11 +101,11 @@ function Shop() {
     
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/dishwasher.png" alt="*IMAGE*" class="card-img">
+            <img src="/dishwasher.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Посудомоечная машина</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">13.999</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -116,11 +116,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/electric-stove.png" alt="*IMAGE*" class="card-img">
+            <img src="/electric-stove.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Електрическая плита</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">46.000</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -131,11 +131,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/iron.png" alt="*IMAGE*" class="card-img">
+            <img src="/iron.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Утюг</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">6.445</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -146,11 +146,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/multi-cooker.png" alt="*IMAGE*" class="card-img">
+            <img src="/multi-cooker.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Мультиварка</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">14.699</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -161,11 +161,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/printer.png" alt="*IMAGE*" class="card-img">
+            <img src="/printer.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Принтер</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">23.999</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -176,11 +176,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/television.png" alt="*IMAGE*" class="card-img">
+            <img src="/television.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Телевизор</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">67.999</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -191,11 +191,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/vacuum-cleaner.png" alt="*IMAGE*" class="card-img">
+            <img src="/vacuum-cleaner.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Пылесос</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">13.333</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
@@ -206,11 +206,11 @@ function Shop() {
     <!--  -->
     <div class="card">
         <div class="img-block">
-            <img src="./img/shop/washing-machine.png" alt="*IMAGE*" class="card-img">
+            <img src="/washing-machine.png" alt="*IMAGE*" class="card-img">
         </div>
         <div class="content-block">
             <h5 class="card-title">Стиральная машина</h5>
-            <p class="card-description">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>                    
+            <p class="card-description">23.555</p>                    
         </div>
         <div class="btns-block">
             <button class="cart">В корзину</button>
